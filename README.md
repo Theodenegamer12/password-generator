@@ -2,6 +2,8 @@
 
 This project is a Python application using the **PyQt5** library to generate secure passwords. The application allows users to specify the password length, include letters, digits, and special characters, and then generates a password based on these criteria. It also allows the user to copy, save the password, and open external links (YouTube, GitHub, and Linktree) via clickable icons.
 
+![image](https://github.com/user-attachments/assets/2c0e1f39-db8e-4f4f-a7da-2adf89004897)
+
 ## Features:
 
 ### 1. **Graphical Interface with PyQt5**:
