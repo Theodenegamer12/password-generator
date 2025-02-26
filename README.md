@@ -19,13 +19,6 @@ This project is a Python application using the **PyQt5** library to generate sec
 ### 4. **Save Password to File**:
    - The application allows the user to save the generated password to a text file by clicking a "Save" button. The file can be saved with a user-defined name and location.
 
-### 5. **External Links with Icons**:
-   - The interface includes clickable icons that open links to external websites such as:
-     - **YouTube**
-     - **GitHub**
-     - **Linktree**
-   - These icons are sized 80x80 pixels and are displayed in the interface, with each opening a relevant webpage when clicked.
-
 ### 6. **Customization**:
    - The minimum password length is set to **10** by default, and the maximum length is set to **16**.
    - The checkboxes for including letters and digits are checked by default, ensuring that these character types are included in the password generation process.
