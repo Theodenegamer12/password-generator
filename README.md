@@ -39,6 +39,9 @@ This project is a Python application using the **PyQt5** library to generate sec
 ## Requirements:
 - Python 3.x
 - PyQt5 (Install with `pip install PyQt5`)
+```bash
+pip install PyQt5 pypresence
+```
 
 ## How to Run:
 1. Clone or download the repository.
